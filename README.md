@@ -11,14 +11,7 @@ A **mini real-time driver drowsiness detection system** built with 🧠 **OpenCV
 
 ---
 
-## 📸 Output Previews
 
-| Alert Screenshots |  |
-|--------------------|----------------|
-| ![Output1](Screenshot%20of%20output1.png) | ![Output2](Screenshot%20of%20output2.png) |
-| ![Output3](Screenshot%20of%20output3.png) |  |
-
----
 
 ## 🧠 How It Works
 1. Detects face using   
@@ -51,6 +44,6 @@ Make sure your  model file path is correct inside the script.
 ---
 
 ## 👤 Author
-**Ashapr100**  
+**Akash Garimella 
 💻 GitHub: [Ashapr100](https://github.com/Ashapr100)
 
