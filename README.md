@@ -1,4 +1,4 @@
-# 💤 Drowsiness Detection (Basic)  
+# 💤 Drowsiness Detection (Basic)  - Python
 A **mini real-time driver drowsiness detection system** built with 🧠 **OpenCV**, 🧩 **dlib**, and 📏 **Eye Aspect Ratio (EAR)** logic.  
 
 ---
